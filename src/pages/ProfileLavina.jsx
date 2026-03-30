@@ -9,7 +9,7 @@ export default function ProfileLavina() {
       prodi="Teknologi Informasi"
       domisili="Kota Malang"
       img={foto}
-      desc="Halo aku Lavina Mavega, mahasiswa Teknologi Informasi angkatan 2025. Aku sangat tertarik dengan dunia teknologi dan selalu bersemangat untuk belajar hal-hal baru di bidang ini. Selain itu, aku juga aktif dalam berbagai kegiatan kampus dan komunitas teknologi. Aku berharap dapat terus berkembang dan memberikan kontribusi positif di dunia teknologi."
+      desc="Hi, aku Zee, salah satu anggota tim Lavina. Aku suka banget sama teknologi, terutama yang berhubungan dengan pengembangan web. Selain itu, aku juga suka banget sama musik dan traveling. Aku berharap bisa belajar banyak hal baru di tim ini dan bisa berkontribusi untuk proyek-proyek yang akan datang!"
     />
   );
 }
