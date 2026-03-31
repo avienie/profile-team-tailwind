@@ -1,5 +1,5 @@
 import ProfileCard from "../components/ProfileCard";
-import foto from "../assets/laudy.jpg";
+import foto from "../assets/laudy.jpeg";
 
 export default function ProfileLavina() {
   return (
